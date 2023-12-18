@@ -2,6 +2,7 @@
 <h2>👨‍💻 My Cyber Security Projects:</h2>
 
 - <b>Microsoft Active Directory Home Lab</b>
+- <b>Log Analysis using Suricata</b>
   
 
 <h2>📺 Popular YouTube Videos</h2>
